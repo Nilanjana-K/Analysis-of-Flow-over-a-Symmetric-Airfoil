@@ -20,7 +20,7 @@ This MATLAB project demonstrates the transformation of potential flow over a cir
 * Conformal Mapping
 * Joukowski Transformation
 
-**Governing Transformation**
+**Governing Transformation:**
 Kutta - Zhukovsky Transformation
 
 **Notes**
